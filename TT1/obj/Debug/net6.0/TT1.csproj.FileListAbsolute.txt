@@ -1,0 +1,15 @@
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\bin\Debug\net6.0\TT1.exe
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\bin\Debug\net6.0\TT1.deps.json
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\bin\Debug\net6.0\TT1.runtimeconfig.json
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\bin\Debug\net6.0\TT1.dll
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\bin\Debug\net6.0\TT1.pdb
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\TT1.csproj.AssemblyReference.cache
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\TT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\TT1.AssemblyInfoInputs.cache
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\TT1.AssemblyInfo.cs
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\TT1.csproj.CoreCompileInputs.cache
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\TT1.dll
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\refint\TT1.dll
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\TT1.pdb
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\TT1.genruntimeconfig.cache
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT1\obj\Debug\net6.0\ref\TT1.dll
