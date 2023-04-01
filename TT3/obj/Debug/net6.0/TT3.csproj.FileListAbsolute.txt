@@ -1,0 +1,15 @@
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\TT3.csproj.AssemblyReference.cache
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\TT3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\TT3.AssemblyInfoInputs.cache
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\TT3.AssemblyInfo.cs
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\TT3.csproj.CoreCompileInputs.cache
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\bin\Debug\net6.0\TT3.exe
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\bin\Debug\net6.0\TT3.deps.json
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\bin\Debug\net6.0\TT3.runtimeconfig.json
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\bin\Debug\net6.0\TT3.dll
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\bin\Debug\net6.0\TT3.pdb
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\TT3.dll
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\refint\TT3.dll
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\TT3.pdb
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\TT3.genruntimeconfig.cache
+D:\GIT-REPO\ForHomeWork\Seven\Tasks\TT3\obj\Debug\net6.0\ref\TT3.dll
