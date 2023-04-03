@@ -19,13 +19,13 @@ void POKADVUMAS (int[,] mas)
 
 void SR (int[,]mas)
 {
-    double sum = 0;
-    double res = 0;
         for (int j = 0; j < mas.GetLength(1); j++)
           {
+            double sum = 0;
+            double res = 0;
             for (int i = 0; i < mas.GetLength(0); i++)
             sum += mas[i,j];
-            Console.WriteLine($"Среднее арифмитическое {j+1} столбца: {res = sum / mas.GetLength(0)}");
+            Console.WriteLine($"Среднее арифмитическое {j+1} столбца: {res = sum / mas.GetLength(0)}");           
           }
 }
 

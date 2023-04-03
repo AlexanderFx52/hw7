@@ -6,7 +6,6 @@
             mas[i, j] = Math.Round(new Random().NextDouble() * 100, 2);
     }
 }
-
 void POKADVUMAS (double[,] mas)
 {
         for(int i = 0; i < mas.GetLength(0); i++)
@@ -16,8 +15,6 @@ void POKADVUMAS (double[,] mas)
             Console.WriteLine();
     }   
 }
-
-
 
 Console.Clear();
 Console.Write("Введите размерность массива: ");
